@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website built to showcase my educational
 Tech Stack: This project was built using core web technologies with a custom terminal-inspired design:-
 1. HTML — Semantic document structure
 2. CSS — Custom styling, CSS variables, flexbox/grid layouts, and light/dark theme toggles
-3. JavaScript (ES6+) — Interactive elements, typing effect, section reveal observers, and theme management
+3. JavaScript — Interactive elements, typing effect, section reveal observers, and theme management
    
 Features:-
 Terminal-Inspired Hero Section: Features a dynamic typing effect for a developer-centric aesthetic.
@@ -14,6 +14,7 @@ Interactive Navigation: Sticky navigation bar with smooth scrolling and active s
 Comprehensive Sections: Includes dedicated blocks for technical skills, featured projects, academic background, language proficiencies, and contact details.
 
 📂 FUTURE_FS_01
+
 ├── index.html       
 ├── style.css       
 └── script.js        
